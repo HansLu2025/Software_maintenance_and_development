@@ -17,4 +17,3 @@
 ## Status
 ![Tests](https://github.com/HansLu2025/Software_maintenance_and_development/actions/workflows/coverage-badge.yml/badge.svg)
 ![Coverage](./coverage.svg)
-
