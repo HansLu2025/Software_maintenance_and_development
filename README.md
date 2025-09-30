@@ -15,5 +15,6 @@
 <!--END-ACTIVITY-->
 
 ## Status
+[![README markers](https://github.com/HansLu2025/Software_maintenance_and_development/actions/workflows/readme-marker-check.yml/badge.svg)](https://github.com/HansLu2025/Software_maintenance_and_development/actions/workflows/readme-marker-check.yml)
 ![Tests](https://github.com/HansLu2025/Software_maintenance_and_development/actions/workflows/coverage-badge.yml/badge.svg)
 ![Coverage](./coverage.svg)
