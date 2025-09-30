@@ -15,5 +15,6 @@
 <!--END-ACTIVITY-->
 
 ## Status
+![Tests](https://github.com/<USER>/<REPO>/actions/workflows/coverage-badge.yml/badge.svg)
 ![Coverage](./coverage.svg)
 
