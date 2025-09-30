@@ -13,3 +13,6 @@
 9. 📥 Opened [PR #2](https://github.com/HansLu2025/Software_maintenance_and_development/pull/2) in [HansLu2025/Software_maintenance_and_development](https://github.com/HansLu2025/Software_maintenance_and_development)
 10. 🔔 Watching [HansLu2025/Software_maintenance_and_development](https://github.com/HansLu2025/Software_maintenance_and_development)
 <!--END-ACTIVITY-->
+
+
+[![Update Github Activity](https://github.com/HansLu2025/Software_maintenance_and_development/actions/workflows/update_readme.yml/badge.svg)](https://github.com/HansLu2025/Software_maintenance_and_development/actions/workflows/update_readme.yml)
