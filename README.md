@@ -14,5 +14,7 @@
 10. 🔔 Watching [HansLu2025/Software_maintenance_and_development](https://github.com/HansLu2025/Software_maintenance_and_development)
 <!--END-ACTIVITY-->
 
-
+## Status
 [![Update Github Activity](https://github.com/HansLu2025/Software_maintenance_and_development/actions/workflows/update_readme.yml/badge.svg)](https://github.com/HansLu2025/Software_maintenance_and_development/actions/workflows/update_readme.yml)
+![Tests](https://github.com/HansLu2025/Software_maintenance_and_development/actions/workflows/coverage-badge.yml/badge.svg)
+![Coverage](./coverage.svg)
