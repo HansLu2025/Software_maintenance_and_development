@@ -17,5 +17,5 @@ jobs:
       - name: Ensure markers exist
         run: |
           set -e
-          grep "<!--START-ACTIVITY-->" README.md
-          grep "<!--END-ACTIVITY-->" README.md
+          grep "<!--START_SECTION:activity-->" README.md
+          grep "<!--END_SECTION:activity-->" README.md
