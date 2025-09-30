@@ -15,10 +15,4 @@
 <!--END-ACTIVITY-->
 
 ## Status
-[![Update Github Activity](https://github.com/HansLu2025/Software_maintenance_and_development/actions/workflows/update_readme.yml/badge.svg)](https://github.com/HansLu2025/Software_maintenance_and_development/actions/workflows/update_readme.yml)
-
-[![Python application](https://github.com/HansLu2025/Software_maintenance_and_development/actions/workflows/python-app.yml/badge.svg)](https://github.com/HansLu2025/Software_maintenance_and_development/actions/workflows/python-app.yml)
-
-[![README markers](https://github.com/HansLu2025/Software_maintenance_and_development/actions/workflows/readme-marker-check.yml/badge.svg)](https://github.com/HansLu2025/Software_maintenance_and_development/actions/workflows/readme-marker-check.yml)
-
-[![README Preview (PR checks)](https://github.com/HansLu2025/Software_maintenance_and_development/actions/workflows/pr-preview.yml/badge.svg)](https://github.com/HansLu2025/Software_maintenance_and_development/actions/workflows/pr-preview.yml)
+![Coverage](./coverage.svg)
